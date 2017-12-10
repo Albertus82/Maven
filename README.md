@@ -1,3 +1,5 @@
+## Usage
+
 Add the following elements to your project's `pom.xml` file:
 
 ```xml
