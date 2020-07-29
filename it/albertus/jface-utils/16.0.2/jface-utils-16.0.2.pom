@@ -24,7 +24,6 @@
 		<maven.repo.owner>albertus82</maven.repo.owner>
 		<maven.repo.name>maven</maven.repo.name>
 		<maven.branch>master</maven.branch>
-		<maven.build.timestamp.format>yyyy-MM-dd</maven.build.timestamp.format>
 		<project.build.outputTimestamp>${git.commit.time}</project.build.outputTimestamp>
 	</properties>
 
@@ -193,7 +192,7 @@
 				<executions>
 					<execution>
 		          	<?m2e ignore?>
-						<phase>initialize</phase>
+						<phase>generate-resources</phase>
 						<goals>
 							<goal>execute</goal>
 						</goals>
