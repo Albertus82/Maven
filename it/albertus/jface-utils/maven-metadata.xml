@@ -4,8 +4,8 @@
   <artifactId>jface-utils</artifactId>
   <versioning>
     <versions>
-      <version>17.2.1-SNAPSHOT</version>
+      <version>17.3.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210302190719</lastUpdated>
+    <lastUpdated>20210309211329</lastUpdated>
   </versioning>
 </metadata>
