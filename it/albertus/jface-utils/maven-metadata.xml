@@ -3,10 +3,9 @@
   <groupId>it.albertus</groupId>
   <artifactId>jface-utils</artifactId>
   <versioning>
-    <release>17.3.1</release>
     <versions>
-      <version>17.3.1</version>
+      <version>17.3.2-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20210515084633</lastUpdated>
+    <lastUpdated>20210515100901</lastUpdated>
   </versioning>
 </metadata>
