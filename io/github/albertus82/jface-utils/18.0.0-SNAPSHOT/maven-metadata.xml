@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>io.github.albertus82</groupId>
+  <artifactId>jface-utils</artifactId>
+  <version>18.0.0-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20211023.171303</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20211023171303</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>18.0.0-20211023.171303-1</value>
+        <updated>20211023171303</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>18.0.0-20211023.171303-1</value>
+        <updated>20211023171303</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>18.0.0-20211023.171303-1</value>
+        <updated>20211023171303</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
