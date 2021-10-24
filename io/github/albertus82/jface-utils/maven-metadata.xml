@@ -3,10 +3,9 @@
   <groupId>io.github.albertus82</groupId>
   <artifactId>jface-utils</artifactId>
   <versioning>
-    <release>18.0.0</release>
     <versions>
-      <version>18.0.0</version>
+      <version>18.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20211024062831</lastUpdated>
+    <lastUpdated>20211024063237</lastUpdated>
   </versioning>
 </metadata>
